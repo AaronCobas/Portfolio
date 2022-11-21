@@ -26,7 +26,6 @@ nav{
     color:white;
     font-size: 35px;
     letter-spacing: 1px;
-    cursor: pointer;
 }
 nav ul li{
     list-style-type: none;
